@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "outDir": "./dist",
+        "module": "commonjs",
+        "target": "es2019",
+        "strictNullChecks": false,
+        "esModuleInterop": true, //converte require to import
+        "allowJs": true, //permite incluir arquivos de configuração no formato javascript 
+    }
+}
